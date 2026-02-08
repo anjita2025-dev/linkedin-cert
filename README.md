@@ -1,6 +1,6 @@
 # The Future in Tech
 
-<img src="https://www.marthastewart.com/thmb/dX1TgMeZO8AixFYUv7b81SalD7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/annuals-and-perennials-peonies-0719-0da72088f00c4255b585198640c22da0.jpg" width="250">
+<img src="https://www.marthastewart.com/thmb/dX1TgMeZO8AixFYUv7b81SalD7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/annuals-and-perennials-peonies-0719-0da72088f00c4255b585198640c22da0.jpg" width="250" style="display:block; margin:0 auto;>
 
 The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
 
